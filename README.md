@@ -36,6 +36,6 @@ Satisfaction Check: The average review rating stands at 3.75, indicating a gener
 💻 How to Run
 Clone this repository.
 
-Open the .pbix files (HR Analysis & Customer Behavior) in Power BI Desktop.
+Open the .pbix files (Customer_Behavior_Dashboard) in Power BI Desktop.
 
 Check the /notebooks folder for Python EDA and /sql folder for data aggregation queries.
