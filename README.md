@@ -4,7 +4,7 @@
 This project analyzes consumer shopping patterns and demographic behavior. By visualizing key metrics like subscription status, age groups, and gender, the dashboard helps businesses identify their most valuable customer segments and understand which product categories drive the most engagement.
 
 📊 Dataset
-Source: E-commerce Customer Transaction data.
+Source: Customer Shopping Behavior Dataset by Amlan Mohanty.
 
 Key Features: Customer ID, Age, Gender, Category (Clothing, Accessories, etc.), Purchase Amount, Review Rating, and Subscription Status.
 
